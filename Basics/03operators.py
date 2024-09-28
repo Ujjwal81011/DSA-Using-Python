@@ -1,23 +1,23 @@
 # Arithematic operator
 a = 15
 b = 14
-# print(a+b)
-# print(a-b)
-# print(a*b)
-# print(b/2)
-# print(a%2)
-# print(a**2)
+print(a+b)
+print(a-b)
+print(a*b)
+print(b/2)
+print(a%2)
+print(a**2)
 
 # Assignment operator
-# a = a + 3
-# b = b - 4
-# print(a,b)
+a = a + 3
+b = b - 4
+print(a,b)
 
 # Comparision Operator
-# print( a==b )
-# print( a!=b )
-# print( a>b )
-# print( a<=b )
+print( a==b )
+print( a!=b )
+print( a>b )
+print( a<=b )
 
 # Logical Operator => and, or, not 
 x = 9
