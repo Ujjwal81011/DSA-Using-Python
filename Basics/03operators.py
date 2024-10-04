@@ -6,7 +6,7 @@ print(a-b)
 print(a*b)
 print(b/2)
 print(a%2)
-print(a**2)
+# print(a**2)
 
 # Assignment operator
 a = a + 3
