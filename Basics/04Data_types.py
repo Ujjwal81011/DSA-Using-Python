@@ -39,5 +39,5 @@ d = {
 print(d)
 
 # Set => it remove duplicate element automatically
-s = {2,3,4,5,3}
+s = {2,3,4,5,3,9}
 print(s,type(s))
