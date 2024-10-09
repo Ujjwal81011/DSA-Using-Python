@@ -36,3 +36,9 @@ print(50 not in l)
 # identity operator => is, is not
 print(x is y)
 print(x is not y)
+
+# exercise
+a = 1
+b = 5
+c = "2"
+print(a+b+c)
