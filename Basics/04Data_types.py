@@ -13,7 +13,7 @@
 # List
 l= [10,20,30,40,50]
 print(l,type(l))
-l[2]=35
+l[2]=32
 print(l)
 
 # String
