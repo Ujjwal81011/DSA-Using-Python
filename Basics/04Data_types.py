@@ -10,7 +10,6 @@
 # tuple
 # set
 
-
 # List
 l= [10,20,30,40,50]
 print(l,type(l))
