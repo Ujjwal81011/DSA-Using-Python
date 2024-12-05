@@ -1,5 +1,5 @@
 # Arithematic operator
-a = 19
+a = 18
 b = 14
 print(a+b)
 print(a-b)
