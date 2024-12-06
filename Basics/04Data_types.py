@@ -26,7 +26,7 @@ welcome to the python world
 print(s1)
 
 # Tuple => it contains more than one value
-t = (7, "python", 1+3)
+t = (8, "python", 1+3)
 print(t)
 
 # Dictionary
