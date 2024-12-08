@@ -3,4 +3,4 @@ b = int(input("enter the value of b in integer"))
 sum = a+b
 print("the value of sum is ",sum ) 
 mul = a*b
-print("the value of mul is", mul)
+print("The value of mul is", mul)
